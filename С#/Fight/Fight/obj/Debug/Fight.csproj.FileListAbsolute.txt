@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\bin\Debug\Fight.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\bin\Debug\Fight.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\bin\Debug\Fight.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\obj\Debug\Fight.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\obj\Debug\Fight.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\obj\Debug\Fight.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\obj\Debug\Fight.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Fight\Fight\obj\Debug\Fight.pdb

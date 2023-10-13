@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\bin\Debug\gamePacMen.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\bin\Debug\gamePacMen.exe
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\bin\Debug\gamePacMen.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\obj\Debug\gamePacMen.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\obj\Debug\gamePacMen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\obj\Debug\gamePacMen.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\obj\Debug\gamePacMen.exe
+C:\Users\Mangust\Desktop\Учёба\С#\gamePacMen\gamePacMen\obj\Debug\gamePacMen.pdb

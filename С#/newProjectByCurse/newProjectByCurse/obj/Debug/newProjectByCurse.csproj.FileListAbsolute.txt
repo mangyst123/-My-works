@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\bin\Debug\newProjectByCurse.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\bin\Debug\newProjectByCurse.exe
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\bin\Debug\newProjectByCurse.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\obj\Debug\newProjectByCurse.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\obj\Debug\newProjectByCurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\obj\Debug\newProjectByCurse.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\obj\Debug\newProjectByCurse.exe
+C:\Users\Mangust\Desktop\Учёба\С#\newProjectByCurse\newProjectByCurse\obj\Debug\newProjectByCurse.pdb

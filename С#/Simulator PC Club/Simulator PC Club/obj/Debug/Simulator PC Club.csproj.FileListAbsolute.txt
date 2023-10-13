@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\bin\Debug\Simulator PC Club.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\bin\Debug\Simulator PC Club.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\bin\Debug\Simulator PC Club.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\obj\Debug\Simulator PC Club.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\obj\Debug\Simulator PC Club.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\obj\Debug\Simulator PC Club.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\obj\Debug\Simulator PC Club.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Simulator PC Club\Simulator PC Club\obj\Debug\Simulator PC Club.pdb

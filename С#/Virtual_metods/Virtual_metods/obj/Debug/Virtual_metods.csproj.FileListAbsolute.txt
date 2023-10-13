@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\bin\Debug\Virtual_metods.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\bin\Debug\Virtual_metods.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\bin\Debug\Virtual_metods.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\obj\Debug\Virtual_metods.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\obj\Debug\Virtual_metods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\obj\Debug\Virtual_metods.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\obj\Debug\Virtual_metods.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Virtual_metods\Virtual_metods\obj\Debug\Virtual_metods.pdb

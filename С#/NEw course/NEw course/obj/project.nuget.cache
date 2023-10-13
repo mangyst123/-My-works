@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFRCWmO4Ol2JV8WqfeKnc2+RECPZ1Co0yi4+v6+plS5RZYMO6C90PeybkwoiZNVXfyB6PGglALPuLa7BjJs3QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mangust\\Desktop\\С#\\NEw course\\NEw course\\NEw course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mangust\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Mangust\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Mangust\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Mangust\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\bin\Debug\Явная и не явная типизация.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\bin\Debug\Явная и не явная типизация.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\bin\Debug\Явная и не явная типизация.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\obj\Debug\Явная и не явная типизация.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\obj\Debug\Явная и не явная типизация.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\obj\Debug\Явная и не явная типизация.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\obj\Debug\Явная и не явная типизация.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Явная и не явная типизация\Явная и не явная типизация\obj\Debug\Явная и не явная типизация.pdb

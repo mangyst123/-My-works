@@ -1,0 +1,8 @@
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\bin\Debug\Static.exe.config
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\bin\Debug\Static.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\bin\Debug\Static.pdb
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\obj\Debug\Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\obj\Debug\Static.exe
+C:\Users\Mangust\Desktop\Учёба\С#\Static\Static\obj\Debug\Static.pdb
