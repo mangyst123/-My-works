@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<library>
+	
+  <Routes path_name="Krasnoyarsk-Kurs" range="4338" amount_of_days="12" payment="13597" index="1"/>
+  <Routes path_name="Moscow-Peter" range="712" amount_of_days="2" payment="2550" index="2"/>
+  <Routes path_name="Saratov-Steppe" range="83" amount_of_days="1" payment="500" index="3"/>
+  <Routes path_name="Smolensk-Kirov" range="1357" amount_of_days="3" payment="3540" index="4"/>
+  <Routes path_name="Yakutsk-Kemerovo" range="4735" amount_of_days="13" payment="15038" index="5"/>
+
+  <Drivers surname="Petrov" name="Vadim" middle_name="Sergeyevich" expirience="25" index="1"/>
+  <Drivers surname="Medvedchuk" name="Alexander" middle_name="Igorevich" expirience="6" index="2"/>
+  <Drivers surname="Ivanov" name="Peter" middle_name="Mikhailovich" expirience="15" index="3"/>
+
+  <Work_in_progress departure_date="12.07.2021" return_date="24.07.2021" prize="16000" index="1" Routes="1" Drivers="1"/>
+  <Work_in_progress departure_date="09.09.2020" return_date="11.09.2020" prize="5000" index="2" Routes="2" Drivers="3"/>
+  <Work_in_progress departure_date="07.08.2021" return_date="08.08.2021" prize="1000" index="3" Routes="3" Drivers="2"/>
+  <Work_in_progress departure_date="09.09.2020" return_date="12.09.2020" prize="4250" index="4" Routes="4" Drivers="2"/>
+  <Work_in_progress departure_date="01.04.2022" return_date="14.04.2022" prize="20000" index="5" Routes="5" Drivers="1"/>
+
+</library>
